@@ -9,7 +9,14 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "data": {
+      "enabled": true,
+      "name": "Tom",
+      "age": 22
+    },
+    "errorCode": 0,
+    "errorMsg": "",
+    "success": true
   },
   "pipeline": {
     "data": {
