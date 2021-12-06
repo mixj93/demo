@@ -10,5 +10,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "pipeline": {
+    "data": {
+      "enabled": true,
+      "name": "Tom",
+      "age": 22
+    },
+    "errorCode": 0,
+    "errorMsg": "",
+    "success": true
   }
 }
